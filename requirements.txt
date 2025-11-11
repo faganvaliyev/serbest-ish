@@ -1,8 +1,0 @@
-torch
-torchvision
-keras
-matplotlib
-torchsummary
-scikit-learn
-seaborn
-torchviz
